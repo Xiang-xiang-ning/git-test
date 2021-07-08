@@ -7,5 +7,7 @@ package com.xjn
 object GitTest {
   def main(args: Array[String]): Unit = {
     println("hello,Git!")
+    println("hello,scala!")
+    println("hello,spark!")
   }
 }
