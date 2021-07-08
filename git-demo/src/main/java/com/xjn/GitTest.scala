@@ -9,5 +9,6 @@ object GitTest {
     println("hello,Git!")
     println("hello,scala!")
     println("hello,spark!")
+    println("dsaj")
   }
 }
