@@ -15,5 +15,6 @@ object GitTest {
 
     println("hot-fix")
     println("hot-fix combain master")
+    println("push test")
   }
 }
