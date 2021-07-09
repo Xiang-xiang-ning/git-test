@@ -10,5 +10,6 @@ object GitTest {
     println("hello,scala!")
     println("hello,spark!")
     println("dsaj")
+    println("hot-fix")
   }
 }
