@@ -12,5 +12,8 @@ object GitTest {
     println("dsaj")
 
     println("master combain")
+
+    println("hot-fix")
+    println("hot-fix combain master")
   }
 }
